@@ -6,8 +6,7 @@ body {
     background-color: black;
 }
 
-#nav-section
-{
+#nav-section {
     padding: 0px;
     border-style: none;
 }
@@ -72,9 +71,39 @@ nav {
     color: white;
 }
 
-#intro img {
+#intro img,
+#social {
     height: 22px;
     width: 22px;
+    padding: 15px 0px 0px 0px;
+}
+
+#intro h1
+{
+    font-size: 50px;
+    color: violet;
+}
+
+#intro h2
+{
+    font-size: 40px;
+    color: gold;
+    padding: 0px 0px 0px 100px;
+}
+
+#intro h4
+{
+    padding: 0px 0px 0px 100px;
+}
+
+.div-container {
+    display: flex;
+    gap: 41px;
+}
+
+.div-container h4 {
+    flex: 1;
+    padding: 0px 0px 0px 0px;
 }
 
 a {
@@ -83,8 +112,7 @@ a {
     padding: 5px;
 }
 
-#about
-{
+#about {
     color: whitesmoke;
     padding: 0px 0px 0px 100px;
 }
@@ -142,7 +170,14 @@ section {
     width: 100%;
     height: 100%;
     perspective: 1000px;
-    padding: 30px 0px 120px;
+    padding: 30px 0px 200px;
+}
+
+.card2 {
+    width: 100%;
+    height: 100%;
+    perspective: 1000px;
+    padding: 0px 0px 0px;
 }
 
 .card-inner {
@@ -196,10 +231,6 @@ button {
     font-size: 14px;
 }
 
-button.clicked {
-    background-color: red;
-}
-
 button:hover {
     background-color: #0056b3;
 }
@@ -213,8 +244,9 @@ button:hover {
 }
 
 .contact h1 {
-    color: green;
-    padding: 0px 0px 0px 160px;
+    color: gold;
+    padding: 0px 0px 0px 450px;
+    font-size: 40px;
 }
 
 .form {
@@ -229,7 +261,7 @@ button:hover {
 form {
     width: 100%;
     max-width: 600px;
-    padding: 0px 0px 0px 150px;
+    padding: 0px 0px 0px 250px;
 }
 
 .input-box {
