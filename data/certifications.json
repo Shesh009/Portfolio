@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Data Analysis using Python",
+        "Organization": "Free Code Camp",
+        "Image_URL": "images/Certifications/fcc.png",
+        "Cert_Link": "https://coursera.org/verify/your-certificate-1"
+    },
+    {
+        "Title": "Data Structures and Algorithms",
+        "Organization": "Smart Interviews",
+        "Image_URL": "images/Certifications/smart-int.png",
+        "Cert_Link": "https://coursera.org/verify/your-certificate-2"
+    },
+    {
+        "Title": "Data Analytics Consulting Virtual Internship",
+        "Organization": "Forage - KPMG",
+        "Image_URL": "images/Certifications/forage.png",
+        "Cert_Link": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_JNxzXS7K9JgyxsPGq_1690534677310_completion_certificate.pdf"
+    },
+    {
+        "Title": "Python Basic",
+        "Organization": "HackerRank",
+        "Image_URL": "images/Certifications/python-basic.png",
+        "Cert_Link": "https://www.hackerrank.com/certificates/d0631e7b2aef"
+    },
+    {
+        "Title": "SQL Basic",
+        "Organization": "HackerRank",
+        "Image_URL": "images/Certifications/sql-basic.png",
+        "Cert_Link": "https://www.hackerrank.com/certificates/1784462642b5"
+    },
+    {
+        "Title": "SQL Intermediate",
+        "Organization": "HackerRank",
+        "Image_URL": "images/Certifications/sql-int.png",
+        "Cert_Link": "https://www.hackerrank.com/certificates/7f8d2a85d8e6"
+    }
+]

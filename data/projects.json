@@ -1,0 +1,50 @@
+[
+    {
+        "Image_URL": "images/Projects/rag_chatbot.png",
+        "Project_Name": "Realtime Information Chatbot",
+        "Description": "A RAG-based chatbot leveraging Gemini 2.0, DuckDuckGo, and Qdrant for real-time web-informed responses via a Streamlit UI.",
+        "Technologies": "Python, Flask, Google Gemini API, Qdrant, BeautifulSoup, Langchain, Streamlit",
+        "Additional_info": "Can be run manually or using Docker Compose.",
+        "Github_Link": "https://github.com/Shesh009/RAG-ChatBot"
+    },
+    {
+        "Image_URL": "images/Projects/major.jpg",
+        "Project_Name": "Automated Cricket Highlights Generator",
+        "Description": "A Python pipeline using OCR and YOLOv8 to auto-generate cricket match highlights by detecting key events.",
+        "Technologies": "Python, Object Detection, OCR, Flask",
+        "Additional_info": "Improved accuracy of event detection and reduced manual editing effort in sports video production.",
+        "Github_Link": "https://github.com/"
+    },
+    {
+        "Image_URL": "images/Projects/sum_int.jpg",
+        "Project_Name": "Student Attentiveness Analysis in Virtual Classrooms",
+        "Description": "A real-time system analyzing student engagement via emotion recognition, head pose, and drowsiness detection.",
+        "Technologies": "Python, Flask, Machine Learning, Deep Learning",
+        "Additional_info": "Designed to support both scalability and integration with online learning platforms.",
+        "Github_Link": "https://github.com/"
+    },
+    {
+        "Image_URL": "images/Projects/mini.jpg",
+        "Project_Name": "Human Action Recognition",
+        "Description": "A video classification model combining EfficientNet and LSTM to detect and classify human actions.",
+        "Technologies": "Python, Deep Learning, EfficientNet, LSTM, Flask",
+        "Additional_info": "Combined advanced architectures to improve accuracy and efficiency in action classification tasks.",
+        "Github_Link": "https://github.com/"
+    },
+    {
+        "Image_URL": "images/Projects/ipl_db_arch.png",
+        "Project_Name": "IPL 2024 Dashboard",
+        "Description": "An interactive Power BI dashboard visualizing IPL 2024 stats using data scraped from cricket websites.",
+        "Technologies": "Web Scraping, Pandas, Power BI, Python Libraries (requests, BeautifulSoup4)",
+        "Additional_info": "The data for this project is sourced from various websites, including LiveMint.com, Wikipedia, and IPLT20.com. The dashboard features include match details, points table, season stats, orange and purple cap lists, player stats, and team squads.",
+        "Github_Link": "https://github.com/Shesh009/IPL-2024-Dashboard"
+    },
+    {
+        "Image_URL": "images/Projects/ct.png",
+        "Project_Name": "Complete DEVOPS Implementation",   
+        "Description": "Shows the implemetation of complete DEVOPS using a small python application.",
+        "Technologies": "Python, Flask, Docker, Kubernetes, SonarQube, Jenkins, ArgoCD",
+        "Additional_info": "The data for this project is sourced from various websites, including LiveMint.com, Wikipedia, and IPLT20.com. The dashboard features include match details, points table, season stats, orange and purple cap lists, player stats, and team squads.",
+        "Github_Link": "https://github.com/Shesh009/Course_Tracker_"
+    }
+]

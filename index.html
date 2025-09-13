@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sheshu's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous"> -->
+</head>
+
+<body>
+    <nav id="navbar">
+        <div class="nav-wrapper">
+            <ul class="nav-left0">
+                <li><a href="https://www.linkedin.com/in/sheshu-akula-808a05270/" target="_blank"><img
+                            src="images/Social/linkedin1.png" alt="LinkedIn"></a></li>
+                <li><a href="https://www.github.com/Shesh009" target="_blank"><img src="images/Social/github.png"
+                            alt="GitHub"></a></li>
+                <li><a href="#"><img src="images/Social/insta.png" alt="Instagram"></a></li>
+                <li><a href="https://leetcode.com/u/Shesh_009/" target="_blank"><img src="images/Social/leetcode.png"
+                            alt="Leetcode"></a></li>
+                <li><a href="#"><img src="images/Social/twitter.png" alt="Twitter"></a></li>
+            </ul>
+
+            <ul class="nav-right0">
+                <li>
+                    <a href="docs/Sheshu_Resume.pdf" download="Sheshu's_Resume.pdf" class="icon-text-link">
+                        <img src="images/Social/Resume.png" alt="Resume Icon">
+                        <span>Resume</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <section id="home">
+        <div id="profile">
+            <div class="photo-wrapper">
+                <img src="images/Profile/myphoto.png" alt="Profile photo" class="profile-img">
+            </div>
+            <span class="circle circle-1"></span>
+            <span class="circle circle-2"></span>
+            <span class="circle circle-3"></span>
+        </div>
+        <div id="intro">
+            <h1>Hi, I’m Sheshu</h1>
+            <div class="nav-container">
+                <div class="nav-right">
+                    <ul>
+                        <li><a href="#skills">Skills</a></li>
+                        <li><a href="#experience">Experience</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#certifications">Certifications</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="about-container">
+            <div class="about-image">
+                <img src="images/Profile/port_photo.jpg" alt="Profile Photo">
+            </div>
+            <div class="about-content">
+                <h2>Here is a <span>little</span> background</h2>
+                <p>👋 Hi, I’m Sheshu — an AI & ML undergraduate at University College of Engineering,
+                    Osmania University. I specialize in developing data-driven solutions with Python,
+                    Flask, Deep Learning, and Power BI. My work spans from building scalable APIs and
+                    RAG pipelines to creating impactful computer vision applications.
+                    Along with strong problem-solving skills, I bring a collaborative mindset,
+                    effective communication, and a passion for turning ideas into real-world AI solutions.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <div class="skills-grid"></div>
+    </section>
+
+
+    <section class="wrapper">
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <div class="experience-timeline-container"></div>
+    </section>
+
+
+    <section class="wrapper">
+    </section>
+
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="projects-grid">
+
+        </div>
+    </section>
+
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <div class="cert-slider-container">
+            <div class="cert-slider">
+                <!-- Cards injected here by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <form id="contact-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Submit</button>
+        </form>
+        <p id="form-status"></p>
+    </section>
+
+    <a href="#home" class="home-btn">
+        <img src="images/Social/home.png" alt="" id="home-btn1">
+    </a>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

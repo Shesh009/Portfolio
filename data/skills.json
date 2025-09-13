@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Python",
+    "image": "images/Skills/python.png",
+    "proficiency": "90%"
+  },
+  {
+    "name": "MySQL",
+    "image": "images/Skills/mysql.png",
+    "proficiency": "70%"
+  },
+  {
+    "name": "Git",
+    "image": "images/Skills/git.png",
+    "proficiency": "90%"
+  },
+  {
+    "name": "GitHub",
+    "image": "images/Skills/github.png",
+    "proficiency": "90%"
+  },
+  {
+    "name": "Flask",
+    "image": "images/Skills/flask.png",
+    "proficiency": "80%"
+  },
+  {
+    "name": "Streamlit",
+    "image": "images/Skills/streamlit.png",
+    "proficiency": "70%"
+  },
+  {
+    "name": "Exploratory Data Analysis",
+    "image": "images/Skills/eda.png",
+    "proficiency": "70%"
+  },
+  {
+    "name": "Machine Learning",
+    "image": "images/Skills/ml.png",
+    "proficiency": "90%"
+  },
+  {
+    "name": "Deep Learning",
+    "image": "images/Skills/dl.png",
+    "proficiency": "90%"
+  },
+  {
+    "name": "RAG",
+    "image": "images/Skills/rag.png",
+    "proficiency": "60%"
+  },
+  {
+    "name": "Microsoft Power BI",
+    "image": "images/Skills/powerbi.png",
+    "proficiency": "50%"
+  },
+  {
+    "name": "API Development",
+    "image": "images/Skills/api.png",
+    "proficiency": "90%"
+  },
+  {
+    "name": "LLMs",
+    "image": "images/Skills/llm.png",
+    "proficiency": "60%"
+  },
+  {
+    "name": "Qdrant DB",
+    "image": "images/Skills/qdrant.png",
+    "proficiency": "50%"
+  },
+  {
+    "name": "Web Scraping",
+    "image": "images/Skills/webscraping.png",
+    "proficiency": "80%"
+  },
+  {
+    "name": "Computer Vision",
+    "image": "images/Skills/cv.png",
+    "proficiency": "50%"
+  },
+  {
+    "name": "Langchain",
+    "image": "images/Skills/langchain.png",
+    "proficiency": "50%"
+  },
+  {
+    "name": "C",
+    "image": "images/Skills/C.png",
+    "proficiency": "80%"
+  },
+  {
+    "name": "Java",
+    "image": "images/Skills/Java.png",
+    "proficiency": "60%"
+  },
+  {
+    "name": "NLP",
+    "image": "images/Skills/nlp.png",
+    "proficiency": "80%"
+  },
+  {
+    "name": "HTML",
+    "image": "images/Skills/html.png",
+    "proficiency": "40%"
+  },
+  {
+    "name": "CSS",
+    "image": "images/Skills/CSS.png",
+    "proficiency": "40%"
+  },
+  {
+    "name": "Javascript",
+    "image": "images/Skills/js.png",
+    "proficiency": "30%"
+  },
+  {
+    "name": "Docker",
+    "image": "images/Skills/docker.png",
+    "proficiency": "60%"
+  }
+]
