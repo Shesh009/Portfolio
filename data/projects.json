@@ -8,6 +8,14 @@
         "Github_Link": "https://github.com/Shesh009/RAG-ChatBot"
     },
     {
+        "Image_URL": "images/Projects/anomalies_detection.png",
+        "Project_Name": "Intelligent Anomaly Detection System",
+        "Description": "The Intelligent Anomaly Detection System is a comprehensive solution designed to identify and explain operational anomalies in financial transactions. Unlike traditional fraud detection systems, this focuses on operational health - helping financial institutions detect early warning signs of inefficiencies, service failures, and processing bottlenecks before they impact customers.",
+        "Technologies": "Python, Fast API, MongoDB, HTML, CSS, Javascript.",
+        "Additional_info": "Can be run manually or using Docker Compose.",
+        "Github_Link": "https://github.com/Shesh009/Intelligent-Anomaly-Detection-System-for-Financial-Transaction-Operations"
+    },
+    {
         "Image_URL": "images/Projects/major.jpg",
         "Project_Name": "Automated Cricket Highlights Generator",
         "Description": "A Python pipeline using OCR and YOLOv8 to auto-generate cricket match highlights by detecting key events.",
